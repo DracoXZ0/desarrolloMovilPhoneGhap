@@ -1,0 +1,38 @@
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .especie {
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .especie img {
+    width: 250px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .especie h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .especie p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
